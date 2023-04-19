@@ -32,3 +32,17 @@ Book by Dmytro Radchuk </li>
 <li>Linux Man Pages </li>
 <li>Boost Asio man pages </li>
 </ul>
+
+<h2> Screenshots </h2>
+
+![Screenshot (6)](https://user-images.githubusercontent.com/31814665/233158711-1bcf0bbd-9e4e-45c2-a7ab-2d365707dd0c.png)
+Syn Flood Wiki page
+
+![Screenshot (5)](https://user-images.githubusercontent.com/31814665/233158756-b24ea921-42f5-47c5-a4e7-1e25f9d2be17.png)
+Virtual machines
+
+![Screenshot (4)](https://user-images.githubusercontent.com/31814665/233158776-5523aacc-ff98-48ad-8635-0d1430730498.png)
+Wireshark to see packets
+
+![Screenshot (7)](https://user-images.githubusercontent.com/31814665/233158793-d36a2000-024d-41a3-a099-245ae0c7cd18.png)
+WindowsXP CPU reaching almost 70%
